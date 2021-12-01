@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Shruti Dhere</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Python, JS**
+
+- 💬 Ask me about **C,C++,HTML,CSS**
+
+- 📫 How to reach me **shrutidhere1234@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
