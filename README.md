@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutidhere12" alt="shrutidhere12" /></a> </p>
 
-- 🌱 I’m currently learning **JS,Flask,PHP**
+- 🌱 I’m currently learning **JS,Angular**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JS**
+- 💬 Ask me about **C,C++,Java, JDBC, Hibernate, SpringBoot, MySQL, HTML,CSS**
 
 - 📫 How to reach me **shrutidhere1234@gmail.com**
 
